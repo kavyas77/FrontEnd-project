@@ -1,12 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧾 Mesothelioma Case Review - Responsive Website
 
-Currently, two official plugins are available:
+This is a fully responsive web application developed using **React.js** and **Tailwind CSS**, based on PDF designs provided for both desktop and mobile views. The application includes smooth responsive transitions, real-time clock sync, and SVG-based visual styling. It is deployed live on Netlify.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live URL**:  
+👉 [https://developmentfrontend.netlify.app](https://developmentfrontend.netlify.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✅ Features
+
+- 🔵 Built with **React.js** + **Vite**
+- 🎯 **Mobile-first** responsive layout
+- 🕒 Live, synced clock display
+- 🎨 Custom SVG image clipping (matches PDF design)
+- ⚡ Optimized performance and clean design
+- 🌐 Deployed on **Netlify**
+
+---
+
+## 🚀 Getting Started (Run Locally)
+
+To run this project locally:
+👉 npm run dev
